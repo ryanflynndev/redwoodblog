@@ -6,10 +6,7 @@ const HomePage = () => {
     <>
       <MetaTags title="Home" description="Home page" />
 
-      <h1>Redwood Blog</h1>
-      <p>
-        Welcome to the blog!
-      </p>
+      <p>Home</p>
     </>
   )
 }
